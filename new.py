@@ -1,6 +1,10 @@
-x = 22
-print(x == 1)
+y = 64
+
+
+
 x = 99
-def hello(h):
-    print(h)
+y = x + 7 
+
+def will(h):
+    print(2*h*y)
 
