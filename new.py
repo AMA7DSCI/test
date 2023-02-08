@@ -4,4 +4,3 @@ x = 99
 def hello(h):
     print(h)
 
-y = 42
