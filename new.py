@@ -1,3 +1,1 @@
-print('totally')
-print('branchnew')
-print('new')
+x = 15
